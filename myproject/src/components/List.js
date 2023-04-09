@@ -10,7 +10,9 @@ const List = ({people}) => {
                         <div>
                             <h1>{name}</h1>
                             <h2>{age}</h2>
-                            <h3>{description}</h3>
+                            <h3>{description}
+                            </h3>
+                            
                         </div>
                     </article>
                 )
